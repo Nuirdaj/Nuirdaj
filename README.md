@@ -17,8 +17,8 @@ Music • Art • Code • Games • Anime
 <br><br>
 
 <img 
-  src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" 
-  height="36" 
+  src="https://github.com/Nuirdaj/Nuirdaj/blob/main/guaxi(2).png?raw=true" 
+  height="50" 
 />
 
 </div>
