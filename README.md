@@ -7,11 +7,11 @@
   width="70%" />
   
 <pre>
-💼 Front-end • Linux • Python 
-🐧 Linux • Systems • Cybersecurity  
-⚙️ Programming • Problem solving  
-📚 Continuous learner 
-Music • Art • Code • Games • Anime 
+💼 Front-end • Linux • Python
+🐧 Curious about everything
+📚 Learning constantly
+🎵 Music • Code • Games • Anime
+
 </pre>
 
 <br><br>
