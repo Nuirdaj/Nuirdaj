@@ -5,8 +5,6 @@
   width="70%" 
 />
 
-<br><br>
-
 <pre>
 💻 Computer Science student  
 🐧 Linux • Systems • Cybersecurity  
