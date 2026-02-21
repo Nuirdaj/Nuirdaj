@@ -1,6 +1,6 @@
 <div align="center">
 
-
+<!--Inspiration: https://github.com/yuuzu-->
 <img src="https://i.pinimg.com/1200x/d5/ee/94/d5ee948081d476c0a41975ea8d665bc6.jpg" width="25%" align="right" />
 <img 
   src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=6B7280&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nuir!" 
